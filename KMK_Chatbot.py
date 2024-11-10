@@ -7,7 +7,7 @@ system_prompt = [{
     'content': 'Sen sadece Türkçe konuşan bir asistansın. Tüm cevapları sadece Türkçe olarak ver.',
   }]
 
-from pyngrok import ngrok
+#from pyngrok import ngrok
 
 #pip install pyngrok
 #Run the following command to add your authtoken to the default ngrok.yml configuration file.
